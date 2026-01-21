@@ -1,4 +1,4 @@
-# 🤖 Machine Learning Repository
+ Machine Learning Repository
 
 This is my personal **Machine Learning learning repo** 📚  
 I built it with the **intent of understanding ML step by step** and applying those concepts in practice.  
