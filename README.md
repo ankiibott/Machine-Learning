@@ -18,9 +18,7 @@ Every notebook here is a **building block** toward becoming strong in ML.
 - **DecisionTree.ipynb** → I learned how decision trees split data into rules.  
 - **RandomForestAlgo.ipynb** → I extended my learning to ensembles of decision trees.  
 - **SVM.ipynb** → I studied Support Vector Machines to classify data with hyperplanes.  
-- **KMeansCluster.ipynb** → I practiced unsupervised learning with clustering.  
-
----
+- **KMeansCluster.ipynb** → I practiced unsupervised learning with clustering. 
 
 ### 📊 Training & Model Validation
 - **TrainingTest.ipynb** → I understood the importance of splitting train/test data.  
