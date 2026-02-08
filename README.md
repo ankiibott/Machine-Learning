@@ -9,7 +9,7 @@ Every notebook here is a **building block** toward becoming strong in ML.
 
 ---
 
-## 📂 Topics Covered
+# 📂 Topics Covered
 
 ### 🔑 Core Algorithms
 - **Linear Regression/** → I understood how regression predicts continuous values.  
