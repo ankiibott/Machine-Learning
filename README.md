@@ -61,7 +61,7 @@ I built this repo with a **structured intent to understand ML concepts** in the 
 9. 💾 Save & deploy models with **Pickle/Joblib**  
 10. 🚀 Apply everything in [🏡 Home Price Prediction](https://github.com/ankiibott/Home_price_prediction)  
 
-👉 This structured flow **helped me a lot to understand Machine Learning** step by step.  
+This structured flow **helped me a lot to understand Machine Learning** step by step.  
 
 ---
 
