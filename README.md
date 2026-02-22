@@ -65,7 +65,7 @@ This structured flow **helped me a lot to understand Machine Learning** step by 
 
 ---
 
-## 📖 How to Use
+# 📖 How to Use
 
 1. Clone the repo:
    ```bash
