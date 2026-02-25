@@ -23,7 +23,7 @@ Every notebook here is a **building block** toward becoming strong in ML.
 
 ### 📊 Training & Model Validation
 - **TrainingTest.ipynb** → I understood the importance of splitting train/test data.  
-- **kfold CrossValidation.ipynb** → I applied K-Fold cross-validation for robust evaluation.  
+- **kfold CrossValidation.ipynb** → I applied K-Fold cross-validation for robust evaluation. 
 - **HyperParameter.ipynb** -> I practiced tuning hyperparameters for better models.  
 
 ---
