@@ -50,7 +50,7 @@ Every notebook here is a **building block** toward becoming strong in ML.
 
 I built this repo with a **structured intent to understand ML concepts** in the following order:
 
-1. 📈 Start with **Linear Regression** → regression basics  
+1. 📈 Start with **Linear Regression** → regression basics 
 2. ✅ Move to **Logistic Regression** → binary classification  
 3. 🌳 Explore **Decision Trees & Random Forests**  
 4. ➗ Learn **Naive Bayes & SVM** for classification  
