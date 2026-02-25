@@ -3,7 +3,7 @@
 This is my personal **Machine Learning learning repo** 📚  
 I built it with the **intent of understanding ML step by step** and applying those concepts in practice.
 
-Every notebook here is a **building block** toward becoming strong in ML.  
+Every notebook here is a **building block** toward becoming strong in ML.
 
 👉 I have applied these concepts in my real-world project:  
 [🏡 Bangalore Home Price Prediction](https://github.com/ankiibott/Home_price_prediction)  
