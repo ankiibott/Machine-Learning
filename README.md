@@ -8,7 +8,7 @@ Every notebook here is a **building block** toward becoming strong in ML.
 👉 I have applied these concepts in my real-world project:  
 [🏡 Bangalore Home Price Prediction](https://github.com/ankiibott/Home_price_prediction)  
 
----
+
 
 # 📂 Topics Covered
 
