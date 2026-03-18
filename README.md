@@ -64,7 +64,7 @@ I built this repo with a **structured intent to understand ML concepts** in the 
 
 This structured flow **helped me a lot to understand Machine Learning** step by step.  
 
----
+
 
 # 📖 How to Use
 
